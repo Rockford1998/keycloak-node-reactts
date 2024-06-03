@@ -1,0 +1,8 @@
+{
+  "realm": "node",
+  "auth-server-url": "http://localhost:4000/",
+  "ssl-required": "external",
+  "resource": "node-auth",
+  "public-client": true,
+  "confidential-port": 0
+}
